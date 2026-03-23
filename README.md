@@ -10,14 +10,13 @@ End-to-end financial analytics project using Power BI, focused on analyzing reve
 ## 📊 Dashboard Preview
 
 ### Executive Summary
-![Executive Summary](images/executive_summary.png)
+![Executive Summary](images/Executive%20Summary.png)
 
 ### Profitability Analysis
-![Profitability Analysis](images/profitability_analysis.png)
+![Profitability Analysis](images/Profitability%20Analysis.png)
 
 ### Insights & Recommendations
-![Insights](images/insights.png)
-
+![Insights](images/Insights%20%26%20Recommendations.png)
 ---
 
 📌 Project Overview
